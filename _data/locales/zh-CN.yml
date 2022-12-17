@@ -6,6 +6,7 @@ layout:
   post: 文章
   category: 分类
   tag: 标签
+  license: 授权协议
 
 # The tabs of sidebar
 tabs:
@@ -15,6 +16,7 @@ tabs:
   tags: 标签
   archives: 归档
   about: 关于
+  license: 授权协议
 
 # the text displayed in the search bar & search results
 search:
@@ -31,13 +33,13 @@ copyright:
   # Shown at the bottom of the post
   license:
     template: 本文由作者按照 :LICENSE_NAME 进行授权
-    name: CC BY 4.0
-    link: https://creativecommons.org/licenses/by/4.0/
+    name: CTL 1.0
+    link: https://ceteaonia.wikidot.com/ctl
 
   # Displayed in the footer
   brief: 保留部分权利。
   verbose: >-
-    除非另有说明，本网站上的博客文章均由作者按照知识共享署名 4.0 国际 (CC BY 4.0) 许可协议进行授权。
+    除非另有说明，本网站上的博客文章均由作者以CTL 1.0进行授权，可向下兼容CC BY-NC-SA 4.0国际许可协议。
 
 meta: 本站由 :PLATFORM 生成，采用 :THEME 主题。
 
