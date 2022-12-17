@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: license
 title: 授权协议
 icon: fas fa-stream
 order: 5
