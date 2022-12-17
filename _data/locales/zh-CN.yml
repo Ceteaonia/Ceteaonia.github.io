@@ -6,7 +6,6 @@ layout:
   post: 文章
   category: 分类
   tag: 标签
-  license: 授权协议
 
 # The tabs of sidebar
 tabs:
@@ -14,9 +13,8 @@ tabs:
   home: 首页
   categories: 分类
   tags: 标签
-  archives: 归档
   about: 关于
-  license: 授权协议
+  archives: 授权协议
 
 # the text displayed in the search bar & search results
 search:
