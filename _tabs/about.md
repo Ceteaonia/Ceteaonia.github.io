@@ -3,12 +3,8 @@ title: 关于
 icon: fas fa-info
 order: 4
 ---
-- ### Hi there 👋, I'm Tom!
-
-  - 🏫  _BSc in Computer Science_.
-  - 💻  I work on C / C++ / Java / Objective-C & Swift / Python / Markdown.
-  - 🧠  I used to take internship as an iOS developer at Bytedance Techonology.
-  - 🏖️  I will go to Shenzhen and work as a back-end engineer at Tencent.
-
-公众号: 汤姆还在写代码
-
+- ### 这里是Ceteaonia以Github托管搭建的的避难所
+   
+   这里主要负责上传文档，备份以及摸鱼。以避免Wikidot彻底崩溃后的诸多问题。
+   我最终还是向别人的库低头了（
+ 
