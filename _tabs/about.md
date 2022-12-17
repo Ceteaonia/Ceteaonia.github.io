@@ -11,11 +11,7 @@ order: 4
    
    以下内容直接复制自Wikidot。
  
----
-title: 关于设定
-icon: fas fa-info
-order: 4
----
+# 关于设定
    
  - ### Ceteaonia的名字从何而来？
    没有任何原因，仅仅是我想写个看起来很牛逼的名字。
