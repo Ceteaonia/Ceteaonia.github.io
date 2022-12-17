@@ -1,6 +1,6 @@
 ---
-layout: archives
-title: 归档
+layout: pages
+title: 测试
 icon: fas fa-archive
 order: 3
 ---
