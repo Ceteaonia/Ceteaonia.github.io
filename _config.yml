@@ -23,7 +23,7 @@ timezone:
 
 title: Ceteaonia                         # the main title
 
-tagline: 由Github托管之避难所  # it will display as the sub-title
+tagline: 正在重新施工中  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
 
@@ -32,16 +32,16 @@ description: >-                        # used by seo meta and the atom feed
 url: ''
 
 github:
-  username: Ceteaonia           # change to your github username
+  username: ChiyokoYukari           # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: ChiyokoYukari            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Lincarol
-  email: KoriLinka@outlook.com             # change to your email address
+  name: ChiyokoYukari
+  email: yukari2020@outlook.com             # change to your email address
 
 google_site_verification:               # fill in to your verification string
 
