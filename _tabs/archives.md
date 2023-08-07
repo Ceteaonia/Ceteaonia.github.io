@@ -1,5 +1,5 @@
 ---
-title: 授权协议
+title: 使用规约
 icon: fas fa-archive
 order: 3
 ---
