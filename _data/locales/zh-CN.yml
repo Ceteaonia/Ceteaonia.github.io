@@ -14,13 +14,13 @@ tabs:
   categories: 分类
   tags: 标签
   about: 关于
-  archives: 授权协议
+  archives: 使用规约
 
 # the text displayed in the search bar & search results
 search:
   hint: 搜索
   cancel: 取消
-  no_results: 搜索结果为空
+  no_results: 什么都没有找到~
 
 panel:
   lastmod: 最近更新
@@ -30,19 +30,19 @@ panel:
 copyright:
   # Shown at the bottom of the post
   license:
-    template: 本文由作者按照 :LICENSE_NAME 进行授权
-    name: CTL 1.0
+    template: 本文未经允许禁止转载，二创作品以 :LICENSE_NAME 进行授权
+    name: 使用规约
     link: https://ceteaonia.github.io/archives/
 
   # Displayed in the footer
   brief: 保留部分权利。
   verbose: >-
-    除非另有说明，本网站上的博客文章均由作者以CTL 1.0进行授权，可向下兼容CC BY-NC-SA 4.0国际许可协议。
+    除非另有说明，本网站的设定内容禁止任何未经允许的复制分发转载，二次创作以使用规约为准。
 
 meta: 本站由 :PLATFORM 生成，采用 :THEME 主题。
 
 not_found:
-  statment: 抱歉，我们放错了该 URL，或者它指向了不存在的内容。
+  statment: 这里什么都没有~~~
   hint_template: :HEAD_BAK尝试再次查找它，或在:ARCHIVES_PAGE上搜索它。
   head_back: 返回主页
   archives_page: 归档页面
