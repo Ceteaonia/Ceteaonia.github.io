@@ -11,9 +11,9 @@
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
-  type: Wikidot
-  icon: 'fas fa-wikipedia-w'
-  url: 'https://wikidot.com/user:info/chiyoko'
+  type: qq
+  icon: 'fab fa-qq'
+  url: 'https://qm.qq.com/q/iGiJcv280w'
 
 # Uncomment and complete the url below to enable more contact options
 # -
