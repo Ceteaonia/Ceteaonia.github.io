@@ -25,11 +25,11 @@ title: Ceteaonia                         # the main title
 
 tagline: 不可追溯的梦  # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
+description: 小希追不上肆无忌惮的风，小希看不见古城的尽头。                        # used by seo meta and the atom feed
 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://ceteaonia.github.io'
 
 github:
   username: ChiyokoYukari           # change to your github username

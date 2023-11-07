@@ -60,8 +60,8 @@ order: 5
     <p>不是你来这里干嘛？</p>
 </div>
 
-<div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/config/transparent.png),url(https://jihulab.com/weblog/gallery04/-/raw/master/pc/dfba07a88287704f00470e1125b64cac8.jpg),40%);">
-    <img src="https://jihulab.com/weblog/gallery04/-/raw/master/pc/dfba07a88287704f00470e1125b64cac8.jpg" alt="rk" class="linksimage">
+<div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/config/transparent.png),url(/assets/config/rk.png),40%);">
+    <img src="/assets/config/rk.png" alt="rk" class="linksimage">
     <span class="linkstitle"><a href="http://runeri-reverkusels.mygamesonline.org/">RK‘S BLOGS</a></span>
     <p>耶嘿~！这里是~Runeri的blog捏☆</p>
 </div>
