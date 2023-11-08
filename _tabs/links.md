@@ -54,12 +54,6 @@ order: 5
     <p>我们探索宇宙的唯一目的,是为了更好的了解自己</p>
 </div>
 
-<div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(https://dn-qiniu-avatar.qbox.me/avatar/d131dbda548c297012b310b59b5f12de?s=64&d=mm&r=pg),40%);">
-    <img src="https://dn-qiniu-avatar.qbox.me/avatar/d131dbda548c297012b310b59b5f12de?s=64&d=mm&r=pg" alt="cloud" class="linksimage">
-    <span class="linkstitle"><a href="https://cloud.sd.cn">网络一隅</a></span>
-    <p>不是你来这里干嘛？</p>
-</div>
-
 <div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(/assets/img/links/rk.png),40%);">
     <img src="/assets/img/links/rk.png" alt="rk" class="linksimage">
     <span class="linkstitle"><a href="http://runeri-reverkusels.mygamesonline.org/">RK‘S BLOGS</a></span>
