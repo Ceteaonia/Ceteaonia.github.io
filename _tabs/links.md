@@ -38,7 +38,7 @@ order: 5
 
 <div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(/assets/img/links/orcinus-library.png),40%);">
     <img src="/assets/img/links/orcinus-library.png" alt="虎鲸图书馆" class="linksimage">
-    <span class="linkstitle"><a href="https://orcinus-library.wikidot.con/">虎鲸图书馆</a></span>
+    <span class="linkstitle"><a href="https://orcinus-library.wikidot.com/">虎鲸图书馆</a></span>
     <p>不要去想喜马拉雅山的大象。</p>
 </div>
 
@@ -56,9 +56,14 @@ order: 5
 
 <div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(/assets/img/links/rk.png),40%);">
     <img src="/assets/img/links/rk.png" alt="rk" class="linksimage">
-    <span class="linkstitle"><a href="http://runeri-reverkusels.mygamesonline.org/">RK‘S BLOGS</a></span>
+    <span class="linkstitle"><a href="http://rnr-runeri-a.cloudns.org">RK‘S BLOGS</a></span>
     <p>耶嘿~！这里是~Runeri的blog捏☆</p>
 </div>
 
+<div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(/assets/img/links/cloud.jpg),40%);">
+    <img src="/assets/img/links/cloud.jpg" alt="rk" class="linksimage">
+    <span class="linkstitle"><a href="https://cloud.sd.cn">网络一隅</a></span>
+    <p>不是你来这里干嘛？</p>
+</div>
 -----
 
