@@ -13,8 +13,8 @@ tabs:
   home: 首页
   categories: 分类
   tags: 标签
-  about: 聊天室
-  archives: 使用规约
+  chat: 聊天室
+  license: 使用规约
   links: 友情链接
 
 # the text displayed in the search bar & search results
