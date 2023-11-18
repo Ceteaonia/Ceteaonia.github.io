@@ -1,6 +1,5 @@
 ---
-layout: 关于本站
-title: 标签
+title: 关于本站
 icon: 
 order: 6
 ---
