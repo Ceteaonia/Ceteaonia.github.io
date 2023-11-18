@@ -1,17 +1,8 @@
 ---
-title: 关于我|关于网站|关于Ceteaonia
-date: 1145-12-19 14:59:00 +0800
-categories: 
-tags: 
-pin: true
-author: ChiyokoYukari
-
-toc: true
-comments: true
-typora-root-url: ../../ceteaonia.github.io
-math: false
-mermaid: true
-
+layout: 关于本站
+title: 标签
+icon: 
+order: 6
 ---
 <center>
 <b><i>
@@ -24,7 +15,7 @@ mermaid: true
 <br>
 
 ---
-### ❤关于我自己
+### 关于我自己
 
 ***ChiyokoYukari***，千岛由香里/千岛希，通称咖喱或油咖喱，女朋友是七月。能说的事情不多，能做的事情也不多——地球小透明、现实底层混子、二型躁郁症、重度焦虑、中度抑郁、互联网绿茶乞丐，大概是这样。
 
@@ -38,7 +29,7 @@ mermaid: true
 
 <center><font color="#666666"><b>——❀——</b></font></center>
 
-### ❤关于这个网站
+### 关于这个网站
 
 一看就能看出来啦，这是个我放我自己的个人主页、我的破烂随笔和我的故事的地方。使用的是GithubPage与Jekyll静态博客搭建，并且十分低能地直接选择Fork了别人的库。所以你也能看出我是个什么样的技术力苦手。
 
@@ -46,7 +37,7 @@ mermaid: true
 
 <center><font color="#666666"><b>——❀——</b></font></center>
 
-### ❤关于Ceteaonia
+### 关于Ceteaonia
 
 Ceteaonia是我的个人设定集，具体内容是什么...就看这个网站慢慢说吧~
 

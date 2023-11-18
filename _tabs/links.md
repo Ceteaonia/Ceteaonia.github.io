@@ -63,7 +63,7 @@ order: 5
 <div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(/assets/img/links/cloud.jpg),40%);">
     <img src="/assets/img/links/cloud.jpg" alt="rk" class="linksimage">
     <span class="linkstitle"><a href="https://cloud.sd.cn">网络一隅</a></span>
-    <p>不是你来这里干嘛？</p>
+    <p>愿我的祝福与你同在</p>
 </div>
 -----
 
