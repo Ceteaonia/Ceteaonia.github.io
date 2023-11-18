@@ -41,11 +41,11 @@ copyright:
   verbose: >-
     除非另有说明，本网站的设定内容禁止任何未经允许的复制分发转载，二次创作以使用规约为准。
 
-meta: 本站由 :PLATFORM 生成，采用 :THEME 主题。
+meta: <a href="https://icp.gov.moe/?keyword=20234044" target="_blank">萌ICP备20234044号</a>
 
-not_found:
+not_found: 
   statment: 这里什么都没有~~~
-  hint_template: :HEAD_BAK尝试再次查找它，或在:ARCHIVES_PAGE上搜索它。
+  hint_template: 少女哟，都说了什么都没有了~
   head_back: 返回主页
   archives_page: 归档页面
 
@@ -66,10 +66,10 @@ post:
     next: 下一篇
     previous: 上一篇
     copy_code:
-      succeed: 已复制！
+      succeed: 复制上啦！不许干坏事哦?
     share_link:
       title:  分享链接
-      succeed: 链接已复制！
+      succeed: 已经复制上咯~
   # pinned prompt of posts list on homepage
   pin_prompt: 顶置
 
