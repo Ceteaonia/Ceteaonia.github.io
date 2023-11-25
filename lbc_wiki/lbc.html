@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>长尾蝶菜谱网</title>
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+	<script>
+		function time(){
+                var date = new Date();
+                var year = date.getFullYear();
+                var month = date.getMonth()+1;
+                var day = date.getDate();
+                var week = date.getDay();
+                week="星期"+"日一二三四五六".charAt(week);
+                var hour =date.getHours();
+                hour=hour<10?"0"+hour:hour;
+                var minute =date.getMinutes();
+                minute=minute<10?"0"+minute:minute;
+                var second = date.getSeconds();
+                second=second<10?"0"+second:second;
+                var currentTime = year+"年"+month+"月"+day+"日  "+week+"   "+hour+":"+minute+":"+second;
+                document.getElementById("time").innerHTML=currentTime;
+            }
+            setInterval("time()",1000);
+        </script>
+</head>
+<body onload="time()">
+	<div id="container">
+		<div id="header">
+			<h1><a href="index.html">长尾蝶菜谱网</a></h1>
+			<div id="top-bar">
+				<ul>
+					<li><a href="index.html">主页</a></li>
+					<li><a href="list.html">菜谱一览</a></li>
+					<li><a href="about.html">关于我们</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="content-wrap">
+			<div id="main-content">
+				<div id="page-content">
+					<marquee><span style="color: #808;font-weight: bolder;font-size:1.8em;">欢迎来到长尾蝶菜谱网！！</span></marquee>
+					<div style="text-align: center;font-size: 1.5em;font-weight: bold;color: #404;">
+						现在是<span id="time"></span><br />决定好今天要吃什么了吗？
+					</div>
+					<div class="content-panel centered standalone"></div>
+					<div class="content-panel centered standalone">
+						<p>欢迎来到长尾蝶菜谱网！<br />你可以在这里找到各种菜谱。</p>
+						<p style="font-size: 1.2em;font-weight: bold;"><a href="list.html">»来看看菜谱一览«</a></p>
+					</div>
+					<div></div>
+					<div class="feature-block">
+						<div class="content-panel left-column">
+							<div class="panel-heading"><p>推荐食谱</p></div>
+							<div class="panel-body" align="center">
+								<div class="feature-title"><p>红烧肉</p></div>
+								<p><a href="recipe1.html"><img src="recipe1.jpg" style="height:300px;"  alt="红烧肉" class="image"></a></p>
+							</div>
+							<div class="panel-footer"><p><a href="recipe1.html">查看食谱</a></p></div>
+						</div>
+						<div class="content-panel right-column">
+							<div class="panel-heading"><p>推荐食谱</p></div>
+							<div class="panel-body" align="center">
+								<div class="feature-title"><p>阳春面</p></div>
+								<p><a href="recipe5.html"><img src="recipe5.jpg" style="height:300px;" alt="阳春面" class="image"></a></p>
+							</div>
+							<div class="panel-footer"><p><a href="recipe5.html">查看食谱</a></p></div>
+						</div>
+					</div>
+					<div style="clear:both; height: 0px; font-size: 1px"></div>
+					<div id="page-info-break"></div>
+				</div>
+				
+			</div>
+		</div>
+		<div id="footer" style="display: block; visibility: visible;">基于HTML语言编写</div>
+	</div>
+</body>
+</html>
