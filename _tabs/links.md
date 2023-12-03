@@ -65,5 +65,11 @@ order: 5
     <span class="linkstitle"><a href="https://cloud.sd.cn">网络一隅</a></span>
     <p>愿我的祝福与你同在</p>
 </div>
+
+<div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(https://ipfs.crossbell.io/ipfs/QmQBGtHVoxQHXVJuxJc1AcgDN48NeZhBg2TduSM7Vo3hcj),40%);">
+    <img src="https://ipfs.crossbell.io/ipfs/QmQBGtHVoxQHXVJuxJc1AcgDN48NeZhBg2TduSM7Vo3hcj" alt="rk" class="linksimage">
+    <span class="linkstitle"><a href="https://reset-chan-1444.xlog.app/">重置酱的日常</a></span>
+    <p>「我今天也要翻滚了。」</p>
+</div>
 -----
 
