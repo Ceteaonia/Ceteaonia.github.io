@@ -13,10 +13,10 @@ tabs:
   home: 首页
   categories: 分类
   tags: 标签
-  chat: 聊天室
-  license: 使用规约
-  links: 友情链接
-  about: 关于本站
+  chat: 聊天
+  license: 规约
+  links: 朋友
+  about: 关于
 
 # the text displayed in the search bar & search results
 search:
