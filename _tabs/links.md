@@ -42,12 +42,6 @@ order: 5
     <p>不要去想喜马拉雅山的大象。</p>
 </div>
 
-<div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(https://yu22c.link/logo.png),40%);">
-    <img src="https://yu22c.link/logo.png" alt="22c" class="linksimage">
-    <span class="linkstitle"><a href="https://yu22c.link">Akari_22c的小破站</a></span>
-    <p>一个普通的小破站。</p>
-</div>
-
 <div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(https://cdn.luogu.com.cn/upload/image_hosting/wzzqwiik.png),40%);">
     <img src="https://cdn.luogu.com.cn/upload/image_hosting/wzzqwiik.png" alt="rmls" class="linksimage">
     <span class="linkstitle"><a href="https://remelens.link">Remelens的个人主页</a></span>
@@ -66,8 +60,8 @@ order: 5
     <p>愿我的祝福与你同在</p>
 </div>
 
-<div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(https://truthboard.top/assets/avatars/NvHOykHskO8QSKIj.png),40%);">
-    <img src="https://truthboard.top/assets/avatars/NvHOykHskO8QSKIj.png" alt="rst" class="linksimage">
+<div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(https://yu22c.link/logo.png),40%);">
+    <img src="https://yu22c.link/logo.png" alt="rst" class="linksimage">
     <span class="linkstitle"><a href="https://reset-chan-1444.xlog.app/">重置酱的日常</a></span>
     <p>「我今天也要翻滚了。」</p>
 </div>
