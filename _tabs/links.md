@@ -37,9 +37,9 @@ order: 5
 </style>
 
 <div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(/assets/img/links/orcinus-library.png),40%);">
-    <img src="/assets/img/links/orcinus-library.png" alt="虎鲸图书馆" class="linksimage">
-    <span class="linkstitle"><a href="https://orcinushinwa.github.io">虎鲸图书馆</a></span>
-    <p>不要去想喜马拉雅山的大象。</p>
+    <img src="/assets/img/links/orcinus-library.png" alt="虎鲸神话故事馆" class="linksimage">
+    <span class="linkstitle"><a href="https://orcinushinwa.github.io">虎鲸神话故事馆</a></span>
+    <p>当前连载系列：比斯特</p>
 </div>
 
 <div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(https://cdn.luogu.com.cn/upload/image_hosting/wzzqwiik.png),40%);">
