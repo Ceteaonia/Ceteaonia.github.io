@@ -13,7 +13,6 @@ tabs:
   home: 首页
   categories: 分类
   tags: 标签
-  chat: 聊天
   license: 规约
   links: 朋友
   about: 关于
@@ -34,7 +33,7 @@ copyright:
   license:
     template: 本文未经允许禁止转载，二创作品以 :LICENSE_NAME 进行授权
     name: 使用规约
-    link: https://ceteaonia.github.io/archives/
+    link: https://ceteaonia.github.io/lincense
 
   # Displayed in the footer
   brief: 保留部分权利。
@@ -52,7 +51,7 @@ not_found:
 # ----- Posts related labels -----
 
 post:
-  written_by: ChiyokoYukari
+  written_by: 千悠子
   posted: 发表于
   updated: 更新于
   words: 字
