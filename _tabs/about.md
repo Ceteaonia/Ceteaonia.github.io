@@ -1,7 +1,7 @@
 ---
 title: 关于
 icon: fa fa-user
-order: 6
+order: 7
 ---
 <center>
 <b><i>

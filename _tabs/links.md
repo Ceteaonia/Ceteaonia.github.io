@@ -1,6 +1,6 @@
 ---
 title: 友情链接
-icon: fa fa-address-book-o
+icon: fa fa-address-book
 order: 5
 ---
 
