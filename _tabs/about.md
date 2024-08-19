@@ -1,6 +1,6 @@
 ---
 title: 关于
-icon: 
+icon: fa fa-user
 order: 6
 ---
 <center>
@@ -39,6 +39,16 @@ order: 6
 如果你曾经不被我欢迎那么现在也不被欢迎，这里只是一个小的不能再小的小网站，和在写自己的幻觉的一个小女孩，并没有什么让你执拗地留下来的理由。互联网浮华，过去的就让它们过去并且再也不见吧。
 
 祝你开心，祝你和看到这里的每个人幸福。
+
+<center><font color="#666666"><b>——❀——</b></font></center>
+
+### 鸣谢
+
+本站基于Jekyll搭建，使用了Chirpy主题。
+
+感谢Cerenothoa、Remelens、CloudSino等朋友的帮助。
+
+<center><font color="#666666"><b>——❀——</b></font></center>
 
 ----
 <br>

@@ -1,6 +1,6 @@
 ---
 title: 友情链接
-icon: 
+icon: fa fa-address-book-o
 order: 5
 ---
 
@@ -44,13 +44,13 @@ order: 5
 
 <div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(https://cdn.luogu.com.cn/upload/image_hosting/wzzqwiik.png),40%);">
     <img src="https://cdn.luogu.com.cn/upload/image_hosting/wzzqwiik.png" alt="rmls" class="linksimage">
-    <span class="linkstitle"><a href="https://remelens.link">Remelens的个人主页</a></span>
-    <p>我们探索宇宙的唯一目的,是为了更好的了解自己</p>
+    <span class="linkstitle"><a href="https://remelens.link">Remelens的个人主页【暂失效】</a></span>
+    <p>把无限放在你的手掌上，永恒在一刹那里收藏。</p>
 </div>
 
 <div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(/assets/img/links/rk.png),40%);">
     <img src="/assets/img/links/rk.png" alt="rk" class="linksimage">
-    <span class="linkstitle"><a href="http://rnr-runeri-a.cloudns.org">RK‘S BLOGS</a></span>
+    <span class="linkstitle"><a href="https://runeri-star.github.io/">RK‘S BLOGS</a></span>
     <p>耶嘿~！这里是~Runeri的blog捏☆</p>
 </div>
 
@@ -60,10 +60,19 @@ order: 5
     <p>愿我的祝福与你同在</p>
 </div>
 
-<div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(https://yu22c.link/logo.png),40%);">
-    <img src="https://yu22c.link/logo.png" alt="rst" class="linksimage">
+<div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(/assets/img/links/resetchan.jpg),40%);">
+    <img src="/assets/img/links/resetchan.jpg" alt="rst" class="linksimage">
     <span class="linkstitle"><a href="https://reset-chan-1444.xlog.app/">重置酱的日常</a></span>
     <p>「我今天也要翻滚了。」</p>
 </div>
+
+<div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(/assets/img/links/xiubi.png),40%);">
+    <img src="/assets/img/links/xiubi.png" alt="rst" class="linksimage">
+    <span class="linkstitle"><a href="https://www.schwarzblog.icu/">Schwarz</a></span>
+    <p>记录一些笔记和成长经历</p>
+</div>
+
+
+
 -----
 
