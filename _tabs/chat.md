@@ -1,6 +1,6 @@
 ---
 title: 在线聊天室
-icon: fa fa-commenting
+icon: fa fa-comment
 order: 6
 ---
 
