@@ -12,6 +12,10 @@
   icon: 'fab fa-qq'
   url: 'https://qm.qq.com/q/DtAXlhpbj'
 
+-
+  type: RSS
+  icon: fa fa-rss
+  link: "https://ceteaonia.github.io/feed.xml"
 
 # Uncomment and complete the url below to enable more contact options
 # -
