@@ -15,6 +15,11 @@ platforms:
     icon: "fab fa-weibo"
     link: "http://service.weibo.com/share/share.php?title=TITLE&url=URL"
 
+  -
+    type: RSS
+    icon: fa fa-rss
+    link: "https://ceteaonia.github.io/feed.xml"
+
 
   # Uncomment below if you need to.
   # -
