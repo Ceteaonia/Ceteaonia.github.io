@@ -11,9 +11,8 @@
   type: qq
   icon: 'fab fa-qq'
   url: 'https://qm.qq.com/q/DtAXlhpbj'
-
 -
-  type: RSS
+  type: link
   icon: fa fa-rss
   link: "https://ceteaonia.github.io/feed.xml"
 
