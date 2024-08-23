@@ -44,7 +44,7 @@ Ceteaonia设定集原作者/版权人为[千悠子](https://ceteaonia.github.io/
 
 联动作品是Ceteaonia设定集内容的重要组成部分。但因不同联动作品的授权范围不同，故在此将分条目单独列出。
 
- #### 比斯特重制版
+ ①比斯特重制版
  
  系列内容为原创世界观设定集“虎鲸神话”的下属连载系列作品“比斯特”的衍生重制版。<br>
  系列重制文字部分（指Bre的文本内容及文档文件）遵守[Ceteaonia使用规约](https://ceteaonia.github.io/license/)。原故事剧情设计创意来源于原作者Cerenothoa，遵守[原作“授权协议”页面](https://orcinus-library.wikidot.com/htym-kmk)的相关内容。<br>
