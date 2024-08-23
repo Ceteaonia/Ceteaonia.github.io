@@ -5,13 +5,10 @@ order: 3
 ---
 # Ceteaonia设定集使用规约
 
-> **本页内所标注内容适用且仅适用于本站内标注“故事”、“设定”、“角色”的页面内容，其他博客内容请联系博主。**
----
-
 ## 前言
 Ceteaonia为一开放的、可自由加入的设定企划系列。为维护企划参与作者的全体权利，故制定本使用规约。本规约适用于所有在本网站及其他公开平台上发布的Ceteaonia系列创作。当您转载、复制、分发、演绎本世界观时，默认同意本规约，亦同意Ceteaonia系列作者要求时，停止使用本设定集。
 
-Ceteaonia设定集原作者/版权人为[千悠子](https://ceteaonia.github.io/post/about)。企划参与作者/授权作者为[hatoyama_kumiko](https://x.com/MaryokuShinkuu)、[mennshenn](https://x.com/mennshenn)、[July](https://x.com/marchsjuly)。
+Ceteaonia设定集原作者/版权人为[千悠子](https://ceteaonia.github.io/post/about)。企划参与作者/授权作者为[hatoyama_kumiko](https://x.com/MaryokuShinkuu)、[mennshenn](https://x.com/mennshenn)、[Vavanapia](https://x.com/marchsjuly)。
 
 ---
 
@@ -41,9 +38,26 @@ Ceteaonia设定集原作者/版权人为[千悠子](https://ceteaonia.github.io/
 
 应注意的是，外来授权作品原作者在同意本协议并将其作品加入Ceteaonia企划后，除非授权作者违反Ceteaonia设定集使用规约导致的其资格失效，否则不得以侵权理由收回对其已改编进入Ceteaonia设定集的作品的二次创作衍生内容版权。原作者可以收回其原作内容或要求修改，但对衍生设定内容概念无权解除授权。
 
+完全授权协议名单将在本站/license01页面列出。
+
+### 联动授权相关
+
+联动作品是Ceteaonia设定集内容的重要组成部分。但因不同联动作品的授权范围不同，故在此将分条目单独列出。
+
+ #### 比斯特重制版
+ 
+ 系列内容为原创世界观设定集“虎鲸神话”的下属连载系列作品“比斯特”的衍生重制版。<br>
+ 系列重制文字部分（指Bre的文本内容及文档文件）遵守[Ceteaonia使用规约](https://ceteaonia.github.io/license/)。原故事剧情设计创意来源于原作者Cerenothoa，遵守[原作“授权协议”页面](https://orcinus-library.wikidot.com/htym-kmk)的相关内容。<br>
+ 系列的部分设定来源于虎鲸神话的合著作者及设计者，在使用前已获得他们的同意：547、[海月梦香](https://m.weibo.cn/u/6093377276)、花海、[溯](https://orcinus-library.wikidot.com/suheatryan)。感谢他们的创意与贡献。<br>
+ 系列最终解释权归千悠悠悠子/Yokoea（ChiyokoYukari）所有，所涉及内容及表达观点均为千悠子主观想法，与原作者及鸣谢作者无关。
+
+ 原则上本部分可暂用于Ceteaorca的相关授权所用。
+
+ 
+
 ### 敏感内容相关
 
-Ceteaonia设定集作者群体来自全球不同地区与不同团体，设定集并无服务于某一实体的立场之需要，故本设定集仅对违反普世人类伦理之内容作出规范。若您认为设定集相关内容触及了您所处某一政治实体的立场，请您私下联系该内容的授权作者协商。
+Ceteaonia企划作者群体来自全球不同地区与不同团体，设定集并无服务于某一实体的立场之需要，故本设定集仅对违反普世人类伦理之内容作出规范。若您认为设定集相关内容触及了您所处某一政治实体的立场，请您私下联系该内容的授权作者协商。
 
 但同时应注意的是，该授权作者有权拒绝任何不合理的要求，Ceteaonia设定集不服务且不代表任何一现实政治实体，亦不会参与讨论与涉及任何有关现实立场敏感内容的讨论，对于设定集相关内容之最终解释权归其授权作者所有。
 
