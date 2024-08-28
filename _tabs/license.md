@@ -38,18 +38,44 @@ Ceteaonia设定集原作者/版权人为[千悠子](https://ceteaonia.github.io/
 
 应注意的是，外来授权作品原作者在同意本协议并将其作品加入Ceteaonia企划后，除非授权作者违反Ceteaonia设定集使用规约导致的其资格失效，否则不得以侵权理由收回对其已改编进入Ceteaonia设定集的作品的二次创作衍生内容版权。原作者可以收回其原作内容或要求修改，但对衍生设定内容概念无权解除授权。
 
-完全授权协议名单将在本站/license01页面列出。
+以下为完全授权名单，名单中所涉及“保留”均意为“保留且仅保留”：
+
+ Ⅰ 普兰黛拉·莱特斯
+ 
+ 普兰黛拉·莱特斯。其设定显著标识包括其原创姓名、姓氏、可供识别的白发或青发、剧情及剧情内人物关系等。原作者**星尘**，于2020年完全授权与Ceteaonia设定集。千悠悠悠子/Yokoea（ChiyokoYukari）对修正设定拥有完全的转载、复制、分发、改编、演绎、署名权。原作者**星尘**保留联系任一授权作者要求更改其可识别人设内容及姓名的权利。
+
+ Ⅱ 拉尔普、鲁珐利、奥宏斯露
+
+ 拉尔普、鲁珐利、奥宏斯露为三国家设定名称。于2020年转移版权与Ceteaonia设定集。千悠悠悠子/Yokoea（ChiyokoYukari）对本作内的相关设定拥有完全的转载、复制、分发、改编、演绎、署名权。原作者及版权归属由于群体设定暂不可考，无保留权利。
+
+ Ⅲ 托希娅·怀特·甘贝菈
+
+ 托希娅·怀特·甘贝菈。其设定显著标识包括其种族身份、性格、剧情及剧情内人物关系等。原作者[Mount-Rain](https://mount-rain.link)，于2022年完全授权与Ceteaonia设定集。千悠悠悠子/Yokoea（ChiyokoYukari）对修正设定拥有完全的转载、复制、分发、改编、演绎、署名权。原作者[Mount-Rain](https://mount-rain.link)无保留权利。
+
+ Ⅳ 狐小仙(瑞雅娜)
+
+ 狐小仙(瑞雅娜)。其设定显著标识为可供识别的白发、狐耳、剧情及剧情内人物关系、原创姓名(仅狐小仙)。原作者[Mount-Rain](https://mount-rain.link)，于2022年完全授权与Ceteaonia设定集。千悠悠悠子/Yokoea（ChiyokoYukari）对修正设定拥有完全的转载、复制、分发、改编、演绎、署名权。原作者[Mount-Rain](https://mount-rain.link)保留联系任一授权作者要求修改可识别人设内容及姓名(仅狐小仙)的权利。
+
+ Ⅶ 托斯城
+
+ 托斯城为一城市设定。于2022年由千悠悠悠子/Yokoea（ChiyokoYukari）原创。**Angoulmurk**、[Mount-Rain](https://mount-rain.link)提供设计灵感，保留转载、复制、分发的权利。
+
+ Ⅷ 任亚墨
+ 
+ 任亚墨。其设定显著标识为可供识别的黑发、研究员装束、诙谐幽默性格、原创姓名。原作者[Yale-Max-Rymingenu](https://write-on-paper.wikidot.com/office-of-yale-max-rymingenu)，于2024年8月27日完全授权与Ceteaonia设定集。千悠悠悠子/Yokoea（ChiyokoYukari）对修正设定拥有完全的转载、复制、分发、改编、演绎、署名权。原作者[Yale-Max-Rymingenu](https://write-on-paper.wikidot.com/office-of-yale-max-rymingenu)保留联系任一授权作者要求更改其可识别人设内容及姓名的权利。
+ 
 
 ### 联动授权相关
 
-联动作品是Ceteaonia设定集内容的重要组成部分。但因不同联动作品的授权范围不同，故在此将分条目单独列出。
+联动作品是Ceteaonia设定集内容的重要组成部分。但因不同联动作品的授权范围不同，故在此将分条目单独列出。以下为联动授权名单：
 
  Ⅰ 比斯特重制版
  
  系列内容为原创世界观设定集“虎鲸神话”的下属连载系列作品“比斯特”的衍生重制版。<br>
  系列重制文字部分（指Bre的文本内容及文档文件）遵守[Ceteaonia使用规约](https://ceteaonia.github.io/license/)。原故事剧情设计创意来源于原作者Cerenothoa，遵守[原作“授权协议”页面](https://orcinus-library.wikidot.com/htym-kmk)的相关内容。<br>
  系列的部分设定来源于虎鲸神话的合著作者及设计者，在使用前已获得他们的同意：547、[海月梦香](https://m.weibo.cn/u/6093377276)、花海、[溯](https://orcinus-library.wikidot.com/suheatryan)。感谢他们的创意与贡献。<br>
- 系列最终解释权归千悠悠悠子/Yokoea（ChiyokoYukari）所有，所涉及内容及表达观点均为千悠子主观想法，与原作者及鸣谢作者无关。
+ 系列最终解释权归千悠悠悠子/Yokoea（ChiyokoYukari）所有，所涉及内容及表达观点均为千悠子主观想法，与原作者及鸣谢作者无关。<br>
+ 原作者及鸣谢作者保有其原创设定的所有权利，依照其各授权协议而定。
 
  原则上本部分可暂用于Ceteaorca的相关授权所用。
 
