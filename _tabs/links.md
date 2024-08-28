@@ -67,10 +67,17 @@ order: 5
 </div>
 
 <div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(/assets/img/links/xiubi.png),40%);">
-    <img src="/assets/img/links/xiubi.png" alt="rst" class="linksimage">
+    <img src="/assets/img/links/xiubi.png" alt="xb" class="linksimage">
     <span class="linkstitle"><a href="https://www.schwarzblog.icu/">Schwarz</a></span>
     <p>记录一些笔记和成长经历</p>
 </div>
+
+<div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(/assets/img/links/mountr.png),40%);">
+    <img src="/assets/img/links/mountr.png" alt="mr" class="linksimage">
+    <span class="linkstitle"><a href="https://mount-rain.link/">山雨的湖边小屋</a></span>
+    <p>拥抱过去，创造未来</p>
+</div>
+
 
 
 
