@@ -84,6 +84,14 @@ Ceteaonia设定集原作者/版权人为[千悠子](https://ceteaonia.github.io/
  Ceteaonia设定集中涉及到山中旅馆的所有文字内容，均以知识共享 署名-非商业化使用-相同方式共享 4.0 协议发布并授权。反之则以本使用规约中的二次创作许可进行授权。<br>
  经完全授权协议许可后的设定内容，以完全授权协议优先。
 
+### 图像内容相关
+
+I Ceteaonia标识
+
+Ceteaonia标识，即本站Logo处所悬挂标识。在遵守本页面基础内容，即“禁止内容相关”、“敏感内容相关”、“使用限制相关”的情况下，可在告知并在显著位置标明原作者**[Cerenothoa]((https://orcinus-library.wikidot.com/htym-kmk))**、**千悠悠悠子/ChiyokoYukari**后，任意复制、分发、转载、二次创作、或用于生成式图像创作AI的训练。
+
+Ceteorca标识，即由Ceteaonia标识与虎鲸图书馆标识合成修改后的联动标识，授权同上。
+
  
 
 ### 敏感内容相关
