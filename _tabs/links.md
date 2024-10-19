@@ -60,12 +60,6 @@ order: 5
     <p>愿我的祝福与你同在</p>
 </div>
 
-<div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(/assets/img/links/resetchan.jpg),40%);">
-    <img src="/assets/img/links/resetchan.jpg" alt="rst" class="linksimage">
-    <span class="linkstitle"><a href="https://reset-chan-1444.xlog.app/">重置酱的日常</a></span>
-    <p>「我今天也要翻滚了。」</p>
-</div>
-
 <div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(/assets/img/links/xiubi.png),40%);">
     <img src="/assets/img/links/xiubi.png" alt="xb" class="linksimage">
     <span class="linkstitle"><a href="https://www.schwarzblog.icu/">Schwarz</a></span>
