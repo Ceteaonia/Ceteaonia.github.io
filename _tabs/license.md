@@ -8,7 +8,7 @@ order: 3
 ## 前言
 Ceteaonia为一开放的、可自由加入的设定企划系列。为维护企划参与作者的全体权利，故制定本使用规约。本规约适用于所有在本网站及其他公开平台上发布的Ceteaonia系列创作。当您转载、复制、分发、演绎本世界观时，默认同意本规约，亦同意Ceteaonia系列作者要求时，停止使用本设定集。
 
-Ceteaonia设定集原作者/版权人为[千悠子](https://ceteaonia.github.io/post/about)。企划参与作者/授权作者为[hatoyama_kumiko](https://x.com/MaryokuShinkuu)、[mennshenn](https://x.com/mennshenn)、[Vavanapia](https://x.com/marchsjuly)。
+Ceteaonia设定集原作者/版权人为[千悠子](https://ceteaonia.github.io/post/about)。企划参与作者/授权作者为[Cerenothoa](https://lit.link/cerenothoa)、[mennshenn](https://x.com/mennshenn)、[Vavanapia](https://x.com/marchsjuly)。
 
 ---
 
@@ -29,6 +29,12 @@ Ceteaonia设定集原作者/版权人为[千悠子](https://ceteaonia.github.io/
 * 其他被认定为违反人类普世伦理道德标准创作或言论的。
 
 除以上内容外，其余任何形式的二次创作、联动世界观，均被允许。
+
+### AI生成内容相关
+
+Ceteaonia设定集支持AI生成作品。但应当注意的是，AI生成的图片或文字需在显著位置标明**由AI生成**；由AI生成的相关内容，包括但不限于图片、文字、音频信息不受本页面使用规约保护或限制，亦不承认其受任何国家或地区的版权法/版权公约保护，默认其属于公有领域。联动作品中所包含的Ai生成内容同样适用本条。
+
+在遵守本使用规约禁止行为相关的情况下，Ceteaonia设定集及完全授权作品可用于生成式文字Ai的训练使用。除非出现Ceteaonia设定集中的特有名词及人物设定，其余生成内容均属于公有领域，不承认其受任何国家或地区的版权法/版权公约保护。
 
 ### 完全授权相关
 
@@ -113,4 +119,4 @@ Ceteaonia企划作者群体来自全球不同地区与不同团体，设定集�
 ---
 ## 后记
 
-使用规约最终解释权归千悠子所有。本规约最后版本于2023-11-19-11:18(UTC)修改。
+使用规约最终解释权归千悠子所有。本规约最后版本于2024-10-24-11:18(北京时间)修改。
