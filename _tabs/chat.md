@@ -6,4 +6,3 @@ order: 6
 
 <center>
 <b>Cbox聊天室暂维护中
-</center>

@@ -8,7 +8,7 @@ order: 3
 ## 前言
 Ceteaonia为一开放的、可自由加入的设定企划系列。为维护企划参与作者的全体权利，故制定本使用规约。本规约适用于所有在本网站及其他公开平台上发布的Ceteaonia系列创作。当您转载、复制、分发、演绎本世界观时，默认同意本规约，亦同意Ceteaonia系列作者要求时，停止使用本设定集。
 
-Ceteaonia设定集原作者/版权人为[千悠子](https://ceteaonia.github.io/post/about)。企划参与作者/授权作者为[Cerenothoa](https://lit.link/cerenothoa)、[mennshenn](https://x.com/mennshenn)、[Vavanapia](https://x.com/marchsjuly)。
+Ceteaonia设定集原作者/版权人为[夕末](https://ceteaonia.github.io/post/about)。企划参与作者/授权作者为[mennshenn](https://x.com/mennshenn)、[Vavanapia](https://x.com/marchsjuly)。
 
 ---
 
@@ -48,27 +48,27 @@ Ceteaonia设定集支持AI生成作品。但应当注意的是，AI生成的图�
 
  Ⅰ 普兰黛拉·莱特斯
  
- 普兰黛拉·莱特斯。其设定显著标识包括其原创姓名、姓氏、可供识别的白发或青发、剧情及剧情内人物关系等。原作者**星尘**，于2020年完全授权与Ceteaonia设定集。千悠悠悠子/Yokoea（ChiyokoYukari）对修正设定拥有完全的转载、复制、分发、改编、演绎、署名权。原作者**星尘**保留联系任一授权作者要求更改其可识别人设内容及姓名的权利。
+ 普兰黛拉·莱特斯。其设定显著标识包括其原创姓名、姓氏、可供识别的白发或青发、剧情及剧情内人物关系等。原作者**星尘**，于2020年完全授权与Ceteaonia设定集。**夕末**对修正设定拥有完全的转载、复制、分发、改编、演绎、署名权。原作者**星尘**保留联系任一授权作者要求更改其可识别人设内容及姓名的权利。
 
  Ⅱ 拉尔普、鲁珐利、奥宏斯露
 
- 拉尔普、鲁珐利、奥宏斯露为三国家设定名称。于2020年转移版权与Ceteaonia设定集。千悠悠悠子/Yokoea（ChiyokoYukari）对本作内的相关设定拥有完全的转载、复制、分发、改编、演绎、署名权。原作者及版权归属由于群体设定暂不可考，无保留权利。
+ 拉尔普、鲁珐利、奥宏斯露为三国家设定名称。于2020年转移版权与Ceteaonia设定集。**夕末**对本作内的相关设定拥有完全的转载、复制、分发、改编、演绎、署名权。原作者及版权归属由于群体设定暂不可考，无保留权利。
 
  Ⅲ 托希娅·怀特·甘贝菈
 
- 托希娅·怀特·甘贝菈。其设定显著标识包括其种族身份、性格、剧情及剧情内人物关系等。原作者[Mount-Rain](https://mount-rain.link)，于2022年完全授权与Ceteaonia设定集。千悠悠悠子/Yokoea（ChiyokoYukari）对修正设定拥有完全的转载、复制、分发、改编、演绎、署名权。原作者[Mount-Rain](https://mount-rain.link)无保留权利。
+ 托希娅·怀特·甘贝菈。其设定显著标识包括其种族身份、性格、剧情及剧情内人物关系等。原作者[Mount-Rain](https://mount-rain.link)，于2022年完全授权与Ceteaonia设定集。**夕末**对修正设定拥有完全的转载、复制、分发、改编、演绎、署名权。原作者[Mount-Rain](https://mount-rain.link)无保留权利。
 
  Ⅳ 狐小仙(瑞雅娜)
 
- 狐小仙(瑞雅娜)。其设定显著标识为可供识别的白发、狐耳、剧情及剧情内人物关系、原创姓名(仅狐小仙)。原作者[Mount-Rain](https://mount-rain.link)，于2022年完全授权与Ceteaonia设定集。千悠悠悠子/Yokoea（ChiyokoYukari）对修正设定拥有完全的转载、复制、分发、改编、演绎、署名权。原作者[Mount-Rain](https://mount-rain.link)保留联系任一授权作者要求修改可识别人设内容及姓名(仅狐小仙)的权利。
+ 狐小仙(瑞雅娜)。其设定显著标识为可供识别的白发、狐耳、剧情及剧情内人物关系、原创姓名(仅狐小仙)。原作者[Mount-Rain](https://mount-rain.link)，于2022年完全授权与Ceteaonia设定集。**夕末**对修正设定拥有完全的转载、复制、分发、改编、演绎、署名权。原作者[Mount-Rain](https://mount-rain.link)保留联系任一授权作者要求修改可识别人设内容及姓名(仅狐小仙)的权利。
 
  Ⅶ 托斯城
 
- 托斯城为一城市设定。于2022年由千悠悠悠子/Yokoea（ChiyokoYukari）原创。**Angoulmurk**、[Mount-Rain](https://mount-rain.link)提供设计灵感，保留转载、复制、分发的权利。
+ 托斯城为一城市设定。于2022年由**夕末**原创。**Angoulmurk**、[Mount-Rain](https://mount-rain.link)提供设计灵感，保留转载、复制、分发的权利。
 
  Ⅷ 任亚墨
  
- 任亚墨。其设定显著标识为可供识别的黑发、研究员装束、诙谐幽默性格、原创姓名。原作者[Yale-Max-Rymingenu](https://write-on-paper.wikidot.com/office-of-yale-max-rymingenu)，于2024年8月27日完全授权与Ceteaonia设定集。千悠悠悠子/Yokoea（ChiyokoYukari）对修正设定拥有完全的转载、复制、分发、改编、演绎、署名权。原作者[Yale-Max-Rymingenu](https://write-on-paper.wikidot.com/office-of-yale-max-rymingenu)保留联系任一授权作者要求更改其可识别人设内容及姓名的权利。
+ 任亚墨。其设定显著标识为可供识别的黑发、研究员装束、诙谐幽默性格、原创姓名。原作者[Yale-Max-Rymingenu](https://write-on-paper.wikidot.com/office-of-yale-max-rymingenu)，于2024年8月27日完全授权与Ceteaonia设定集。**夕末**对修正设定拥有完全的转载、复制、分发、改编、演绎、署名权。原作者[Yale-Max-Rymingenu](https://write-on-paper.wikidot.com/office-of-yale-max-rymingenu)保留联系任一授权作者要求更改其可识别人设内容及姓名的权利。
  
 
 ### 联动授权相关
@@ -80,25 +80,29 @@ Ceteaonia设定集支持AI生成作品。但应当注意的是，AI生成的图�
  系列内容为原创世界观设定集“虎鲸神话”的下属连载系列作品“比斯特”的衍生重制版。<br>
  系列重制文字部分（指Bre的文本内容及文档文件）遵守[Ceteaonia使用规约](https://ceteaonia.github.io/license/)。原故事剧情设计创意来源于原作者Cerenothoa，遵守[原作“授权协议”页面](https://orcinus-library.wikidot.com/htym-kmk)的相关内容。<br>
  系列的部分设定来源于虎鲸神话的合著作者及设计者，在使用前已获得他们的同意：547、[海月梦香](https://m.weibo.cn/u/6093377276)、花海、[溯](https://orcinus-library.wikidot.com/suheatryan)。感谢他们的创意与贡献。<br>
- 系列最终解释权归千悠悠悠子/Yokoea（ChiyokoYukari）所有，所涉及内容及表达观点均为千悠子主观想法，与原作者及鸣谢作者无关。<br>
+ 系列最终解释权归**夕末**所有，所涉及内容及表达观点均为**夕末**主观想法，与原作者及鸣谢作者无关。<br>
  原作者及鸣谢作者保有其原创设定的所有权利，依照其各授权协议而定。
 
- 原则上本部分可暂用于Ceteaorca的相关授权所用。
+ 原则上本部分可暂用于Ceteaorca的相关授权所用。、
+
+ 20241219更新 - 本部分授权协议作废，**夕末**放弃所有权利。
 
  II 山中旅馆
 
  Ceteaonia设定集中涉及到山中旅馆的所有文字内容，均以知识共享 署名-非商业化使用-相同方式共享 4.0 协议发布并授权。反之则以本使用规约中的二次创作许可进行授权。<br>
  经完全授权协议许可后的设定内容，以完全授权协议优先。
 
+ 20241219更新 - 本部分授权协议作废，**夕末**放弃所有权利。
+
 ### 图像内容相关
 
 I Ceteaonia标识
 
-Ceteaonia标识，即本站Logo处所悬挂标识。在遵守本页面基础内容，即“禁止内容相关”、“敏感内容相关”、“使用限制相关”的情况下，可在告知并在显著位置标明原作者**[Cerenothoa](https://orcinus-library.wikidot.com/htym-kmk)**、**千悠悠悠子/ChiyokoYukari**后，任意复制、分发、转载、二次创作、或用于生成式图像创作AI的训练。
+Ceteaonia标识，即本站Logo处所悬挂标识。在遵守本页面基础内容，即“禁止内容相关”、“敏感内容相关”、“使用限制相关”的情况下，可在告知并在显著位置标明原作者**[Cerenothoa](https://orcinus-library.wikidot.com/htym-kmk)**、**夕末**后，任意复制、分发、转载、二次创作、或用于生成式图像创作AI的训练。
 
 Ceteorca标识，即由Ceteaonia标识与虎鲸图书馆标识合成修改后的联动标识，授权同上。
 
- 
+20241219更新 - 本部分授权协议作废，**夕末**放弃所有权利。
 
 ### 敏感内容相关
 
@@ -119,4 +123,4 @@ Ceteaonia企划作者群体来自全球不同地区与不同团体，设定集�
 ---
 ## 后记
 
-使用规约最终解释权归千悠子所有。本规约最后版本于2024-10-24-11:18(北京时间)修改。
+使用规约最终解释权归千悠子所有。本规约最后版本于2024-12-19-12:38(北京时间)修改。
