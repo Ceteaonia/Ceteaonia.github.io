@@ -36,11 +36,6 @@ order: 5
 }
 </style>
 
-<div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(/assets/img/links/orcinus-library.png),40%);">
-    <img src="/assets/img/links/orcinus-library.png" alt="虎鲸神话故事馆" class="linksimage">
-    <span class="linkstitle"><a href="https://orcinushinwa.github.io">虎鲸神话故事馆</a></span>
-    <p>当前连载系列：比斯特</p>
-</div>
 
 <div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(https://cdn.luogu.com.cn/upload/image_hosting/wzzqwiik.png),40%);">
     <img src="https://cdn.luogu.com.cn/upload/image_hosting/wzzqwiik.png" alt="rmls" class="linksimage">
@@ -72,6 +67,15 @@ order: 5
     <p>拥抱过去，创造未来</p>
 </div>
 
+<!-->
+
+已归档内容：
+
+<div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(/assets/img/links/orcinus-library.png),40%);">
+    <img src="/assets/img/links/orcinus-library.png" alt="虎鲸神话故事馆" class="linksimage">
+    <span class="linkstitle"><a href="https://orcinushinwa.github.io">虎鲸神话故事馆</a></span>
+    <p>当前连载系列：比斯特</p>
+</div>
 
 
 
