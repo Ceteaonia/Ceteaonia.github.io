@@ -23,7 +23,7 @@ timezone:
 
 title: Ceteaonia                         # the main title
 
-tagline: 混沌一片的未来  # it will display as the sub-title
+tagline: 这里装满了枯萎的花  # it will display as the sub-title
 
 description: 小希追不上肆无忌惮的风，小希看不见古城的尽头。                        # used by seo meta and the atom feed
 
@@ -32,7 +32,7 @@ description: 小希追不上肆无忌惮的风，小希看不见古城的尽头�
 url: 'https://ceteaonia.github.io'
 
 github:
-  username: ChiyokoYukari           # change to your github username
+  username: KurokawaShiorei           # change to your github username
 
 
 social:
