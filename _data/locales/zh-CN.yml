@@ -15,14 +15,14 @@ tabs:
   tags: 标签
   license: 规约
   chat: 聊天
-  links: 朋友
+  links: 友链
   about: 关于
 
 # the text displayed in the search bar & search results
 search:
   hint: 搜索
   cancel: 取消
-  no_results: 什么都没有找到~
+  no_results: 什么都没有找到，回去吧
 
 panel:
   lastmod: 最近更新
@@ -37,23 +37,23 @@ copyright:
     link: https://ceteaonia.github.io/license
 
   # Displayed in the footer
-  brief: 保留部分权利。
+  brief: 保留所有权利。
   verbose: >-
     除非另有说明，本网站的设定内容禁止任何未经允许的复制分发转载，二次创作以使用规约为准。
 
 meta: <a href="https://icp.gov.moe/?keyword=20234044" target="_blank">萌ICP备20234044号</a> | <a href="https://travel.moe/go" target="_blank">异次元之旅</a>
 
 not_found: 
-  statment: 这里什么都没有~~~
-  hint_template: 少女哟，都说了什么都没有了~
+  statment: 这里什么都没有
+  hint_template: 的确什么都没有，只剩下一片死寂的虚无
   head_back: 返回主页
   archives_page: 归档页面
 
 # ----- Posts related labels -----
 
 post:
-  written_by: 汐玲
-  posted: 发表于
+  written_by: 作者
+  posted: 发布于
   updated: 更新于
   words: 字
   pageview_measure: 次浏览
