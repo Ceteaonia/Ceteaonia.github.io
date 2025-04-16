@@ -67,8 +67,8 @@ order: 5
     <p>拥抱过去，创造未来</p>
 </div>
 
-<div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(https://rymingenu.fun/assets/images/rymingenu2.png),40%);">
-    <img src="https://rymingenu.fun/assets/images/rymingenu2.png" alt="rym" class="linksimage">
+<div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(https://rymingenu.fun/assets/images/rymingenu.png),40%);">
+    <img src="https://rymingenu.fun/assets/images/rymingenu.png" alt="rym" class="linksimage">
     <span class="linkstitle"><a href="https://rymingenu.fun/">任亚墨的书房</a></span>
     <p>你似乎来过这里…</p>
 </div>
