@@ -39,8 +39,8 @@ order: 5
 
 <div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(https://cdn.luogu.com.cn/upload/image_hosting/wzzqwiik.png),40%);">
     <img src="https://cdn.luogu.com.cn/upload/image_hosting/wzzqwiik.png" alt="rmls" class="linksimage">
-    <span class="linkstitle"><a href="https://remelens.link">Remelens的个人主页【暂失效】</a></span>
-    <p>把无限放在你的手掌上，永恒在一刹那里收藏。</p>
+    <span class="linkstitle"><a href="https://remelens.me">Remelens的个人主页</a></span>
+    <p>企鹅也是鹅啊，火腿也是腿啊 ~</p>
 </div>
 
 <div class="linksbox" style="background-image: -webkit-cross-fade(url(/assets/img/links/transparent.png),url(/assets/img/links/rk.png),40%);">
@@ -82,4 +82,7 @@ order: 5
 
 
 -----
+
+**如果你希望在这里加上你的链接，请在侧栏“聊天”留言或在侧栏邮箱中发送邮件，我会很快的看到的！**
+
 
