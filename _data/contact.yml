@@ -8,13 +8,9 @@
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
-  type: qq
-  icon: 'fab fa-qq'
-  url: 'https://qm.qq.com/q/DtAXlhpbj'
--
   type: link
   icon: fa fa-rss
-  link: "https://ceteaonia.github.io/feed.xml"
+  link: "https://ceteaonia.top/feed.xml"
 
 # Uncomment and complete the url below to enable more contact options
 # -
