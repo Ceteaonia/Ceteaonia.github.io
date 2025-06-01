@@ -187,17 +187,6 @@ order: 5
         </div>
     </div>
 
-<div class="linksbox">
-        <div class="links-decoration decoration-1">✧</div>
-        <div class="links-decoration decoration-2">✿</div>
-        <div class="links-content">
-            <div class="links-image-container">
-                <img src="/assets/img/links/rk.png" alt="rk" class="linksimage">
-            </div>
-            <span class="linkstitle"><a href="https://runeri-star.github.io/">RK'S BLOGS</a></span>
-            <p>耶嘿~！这里是~Runeri的blog捏☆</p>
-        </div>
-</div>
 
 <div class="linksbox">
         <div class="links-decoration decoration-1">❁</div>
@@ -289,6 +278,18 @@ boxes.forEach(box => {
     <img src="/assets/img/links/orcinus-library.png" alt="虎鲸神话故事馆" class="linksimage">
     <span class="linkstitle"><a href="https://orcinushinwa.github.io">虎鲸神话故事馆</a></span>
     <p>当前连载系列：比斯特</p>
+</div>
+
+<div class="linksbox">
+        <div class="links-decoration decoration-1">✧</div>
+        <div class="links-decoration decoration-2">✿</div>
+        <div class="links-content">
+            <div class="links-image-container">
+                <img src="/assets/img/links/rk.png" alt="rk" class="linksimage">
+            </div>
+            <span class="linkstitle"><a href="https://runeri-star.github.io/">RK'S BLOGS</a></span>
+            <p>耶嘿~！这里是~Runeri的blog捏☆</p>
+        </div>
 </div>
 
 -->
