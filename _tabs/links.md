@@ -183,7 +183,7 @@ order: 5
                 <img src="https://cdn.luogu.com.cn/upload/image_hosting/wzzqwiik.png" alt="rmls" class="linksimage">
             </div>
             <span class="linkstitle"><a href="https://remelens.me">Remelens的个人主页</a></span>
-            <p>企鹅也是鹅啊，火腿也是腿啊 ~</p>
+            <p>我们都在阴沟里，但总有人仰望星空</p>
         </div>
     </div>
 
