@@ -14,7 +14,7 @@ tabs:
   categories: 分类
   tags: 标签
   license: 规约
-  chat: 聊天
+  diary: 日记
   links: 友链
   about: 关于
 
@@ -22,7 +22,7 @@ tabs:
 search:
   hint: 搜索
   cancel: 取消
-  no_results: 什么都没有找到，回去吧
+  no_results: 什么都没有找到，回去吧。
 
 panel:
   lastmod: 最近更新
@@ -34,7 +34,7 @@ copyright:
   license:
     template: 本文未经允许禁止转载，二创作品以 :LICENSE_NAME 进行授权
     name: 使用规约
-    link: https://ceteaonia.github.io/license
+    link: https://ceteaonia.top/license
 
   # Displayed in the footer
   brief: 保留所有权利。
