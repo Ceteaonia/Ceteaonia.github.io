@@ -3,11 +3,12 @@ title: 🍃
 icon: fa fa-comment
 order: 6
 ---
-
-<head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="https://ceteaonia.top/assets/plugins/calendar-component.css">
-</head>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        <link rel="stylesheet" href="https://ceteaonia.top/assets/plugins/calendar-component.css">
+    </head>
+</html>
 
 <center>
 
