@@ -4,6 +4,11 @@ icon: fa fa-comment
 order: 6
 ---
 
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://ceteaonia.top/assets/plugins/calendar-component.css">
+</head>
+
 <center>
 
 <big><b>记忆会渐渐模糊，才需要做好记录。
@@ -75,6 +80,10 @@ order: 6
 ----
 ----
 
+<div id="calendar-container"></div>
+
+----
+
 
 ### **2025-06-22**
 
@@ -117,3 +126,25 @@ Tulpa已经很久很久没有出现过了，它们——他们好像永远永远
 <center>
 <b><big>记忆这种东西，阻碍我活着。</big></b>
 </center>
+
+<script>
+        // 动态加载日历组件
+        function loadCalendar() {
+            fetch('https://ceteaonia.top/assets/plugins/calendar-component.html')
+                .then(response => response.text())
+                .then(html => {
+                    document.getElementById('calendar-container').innerHTML = html;
+                    // 确保JS和CSS路径正确
+                    const link = document.createElement('link');
+                    link.rel = 'stylesheet';
+                    link.href = 'https://ceteaonia.top/assets/plugins/calendar-component.css';
+                    document.head.appendChild(link);
+                    
+                    const script = document.createElement('script');
+                    script.src = 'https://ceteaonia.top/assets/plugins/calendar-component.js';
+                    document.body.appendChild(script);
+                });
+        }
+        
+        document.addEventListener('DOMContentLoaded', loadCalendar);
+    </script>
