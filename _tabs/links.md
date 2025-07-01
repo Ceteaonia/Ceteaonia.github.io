@@ -174,6 +174,10 @@ order: 5
 .linksbox:nth-child(6n+6) p::after { background: linear-gradient(90deg, #fd79a8, #fab1a0); }
 </style>
 
+**友情链接正在进行升级维护中...预计将于月末完成维护！**
+
+<!-->
+
 <div class="links-container">
     <div class="linksbox">
         <div class="links-decoration decoration-1">✦</div>
