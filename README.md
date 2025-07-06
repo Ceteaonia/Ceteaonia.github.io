@@ -1,3 +1,1 @@
-咖喱的个人站~
-
-使用Jekyll与Chirpy主题搭建。
+是个人站点，使用Jekyll与Chirpy主题搭建。
