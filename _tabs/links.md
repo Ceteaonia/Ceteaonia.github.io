@@ -174,7 +174,7 @@ order: 5
 .linksbox:nth-child(6n+6) p::after { background: linear-gradient(90deg, #fd79a8, #fab1a0); }
 </style>
 
-**友情链接正在进行升级维护中...预计将于月末完成维护！**
+**友情链接正在进行升级维护中...预计将于月末完成维护！请诸位曾添加过友情链接的朋友稍安勿躁。**
 
 <!-->
 
