@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="calendar-component.css">
+</head>
+<body>
+    <div class="calendar-container">
+        <div class="calendar-navigation">
+            <div class="nav-section">
+                <button class="nav-btn theme-toggle" id="themeToggle">
+                    <i class="fas fa-adjust"></i>
+                </button>
+                <button class="nav-btn" id="prevMonth">
+                    <i class="fas fa-chevron-left"></i>
+                </button>
+            </div>
+            
+            <div class="month-header">
+                <div class="current-month" id="currentMonth">YYYY年MM月</div>
+            </div>
+            
+            <div class="nav-section">
+                <button class="nav-btn" id="nextMonth">
+                    <i class="fas fa-chevron-right"></i>
+                </button>
+            </div>
+        </div>
+        
+        <div class="calendar-weekdays">
+            <div>日</div>
+            <div>月</div>
+            <div>火</div>
+            <div>水</div>
+            <div>木</div>
+            <div>金</div>
+            <div>土</div>
+        </div>
+        
+        <div class="calendar-grid" id="calendarGrid"></div>
+        
+        <div class="calendar-footer">
+            点击日期跳转日记
+        </div>
+    </div>
+    
+    <div class="notification" id="notification">
+        正在跳转至<span id="urlDate"></span>的日记，请稍候...（鞠躬）
+    </div>
+    
+    <script src="calendar-component.js"></script>
+</body>
+</html>
