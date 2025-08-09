@@ -94,7 +94,7 @@ Ceteaonia企划内容含有大量虚构成人内容，不建议任何年龄小�
  
  任亚墨。其设定显著标识为可供识别的黑发、研究员装束、诙谐幽默性格、原创姓名。原作者[Yale-Max-Rymingenu](https://rymingenu.fun/about)，于2024年8月27日完全授权与Ceteaonia设定集。**黑川汐玲**对修正设定拥有完全的转载、复制、分发、改编、演绎、署名权。原作者[Yale-Max-Rymingenu](https://rymingenu.fun/about)保留联系任一授权作者要求更改其可识别人设内容及姓名的权利。
 
- ### 附录Ⅱ：Write On Paper
+### 附录Ⅱ：Write On Paper
 
  本规约中所指“截至本页面更新日即2025-08-03时受现行站务组成员控制的Write On Paper”，中“现行站务组”之定义为以**Yale Max Rymingenu**为主的，并实际控制WOP网站及聊天群的，能够行使管理权限的管理团体。
 
