@@ -3,11 +3,6 @@ title: 友情链接
 icon: fa fa-address-book
 order: 5
 ---
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
         :root {
             --primary-color: #333;
@@ -135,8 +130,6 @@ order: 5
             }
         }
     </style>
-</head>
-<body>
 
 <div class="links-container">
         <div class="links-card">
@@ -242,6 +235,3 @@ order: 5
                 </div>
             </div>
         </div>
-    </div>
-</body>
-</html>
