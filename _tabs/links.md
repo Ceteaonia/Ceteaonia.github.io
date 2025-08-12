@@ -4,6 +4,10 @@ icon: fa fa-address-book
 order: 5
 ---
 
+<center>
+**我草真懒得修了吧什么神经病东西不想修了就这样吧能用就行了我草。（扶额）**
+</center>
+
 <div class="friendship-links">
   <div class="link-card" data-href="https://example.com/truthboard">
     <div class="card-content">
