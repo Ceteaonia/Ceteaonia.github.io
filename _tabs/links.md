@@ -3,7 +3,6 @@ title: 友情链接
 icon: fa fa-address-book
 order: 5
 ---
-<div class="friendship-links">
   <div class="link-card">
     <a href="https://truthboard.wikidot.com" target="_blank" rel="noopener noreferrer">
       <div class="card-content">
@@ -81,7 +80,6 @@ order: 5
       </div>
     </a>
   </div>
-</div>
 
 <style>
 .friendship-links {
