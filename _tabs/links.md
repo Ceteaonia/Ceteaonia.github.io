@@ -4,7 +4,6 @@ icon: fa fa-address-book
 order: 5
 ---
   <div class="link-card">
-    <a href="https://truthboard.wikidot.com" target="_blank" rel="noopener noreferrer">
       <div class="card-content">
         <img src="https://truthboard.wdfiles.com/local--files/theme%3Abasic/truthboard2.svg" alt="Truthboard头像" class="avatar">
         <div class="card-text">
@@ -13,11 +12,9 @@ order: 5
           <span class="type-tag">社区网站</span>
         </div>
       </div>
-    </a>
   </div>
   
   <div class="link-card">
-    <a href="https://remelens.me" target="_blank" rel="noopener noreferrer">
       <div class="card-content">
         <img src="https://cdn.luogu.com.cn/upload/image_hosting/wzzqwiik.png" alt="Remelens头像" class="avatar">
         <div class="card-text">
@@ -26,11 +23,9 @@ order: 5
           <span class="type-tag">个人博客</span>
         </div>
       </div>
-    </a>
   </div>
   
   <div class="link-card">
-    <a href="https://cloud.sd.cn" target="_blank" rel="noopener noreferrer">
       <div class="card-content">
         <img src="/assets/img/links/cloud.jpg" alt="网络一隅头像" class="avatar">
         <div class="card-text">
@@ -39,11 +34,9 @@ order: 5
           <span class="type-tag">个人博客</span>
         </div>
       </div>
-    </a>
   </div>
   
   <div class="link-card">
-    <a href="https://www.schwarzblog.icu/" target="_blank" rel="noopener noreferrer">
       <div class="card-content">
         <img src="/assets/img/links/xiubi.png" alt="Schwarz头像" class="avatar">
         <div class="card-text">
@@ -52,11 +45,9 @@ order: 5
           <span class="type-tag">个人博客</span>
         </div>
       </div>
-    </a>
   </div>
   
   <div class="link-card">
-    <a href="https://mount-rain.link/" target="_blank" rel="noopener noreferrer">
       <div class="card-content">
         <img src="/assets/img/links/mountr.png" alt="山雨的湖边小屋头像" class="avatar">
         <div class="card-text">
@@ -65,11 +56,9 @@ order: 5
           <span class="type-tag">社区网站</span>
         </div>
       </div>
-    </a>
   </div>
   
   <div class="link-card">
-    <a href="https://rymingenu.fun/" target="_blank" rel="noopener noreferrer">
       <div class="card-content">
         <img src="https://rymingenu.fun/assets/images/rymingenu.png" alt="任亚墨的书房头像" class="avatar">
         <div class="card-text">
@@ -78,7 +67,6 @@ order: 5
           <span class="type-tag">个人博客</span>
         </div>
       </div>
-    </a>
   </div>
 
 <style>
