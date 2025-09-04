@@ -19,9 +19,9 @@ mermaid: true
 
 在主文件夹创建或者修改**.pam_environment**，加入以下内容：
 
-> **GTK_IM_MODULE DEFAULT=fcitx**
-> **QT_IM_MODULE DEFAULT=fcitx**
-> **XMODIFIERS DEFAULT=@im=fcitx**
-> **SDL_IM_MODULE DEFAULT=fcitx**
+> **GTK_IM_MODULE DEFAULT=fcitx**<br>
+> **QT_IM_MODULE DEFAULT=fcitx**<br>
+> **XMODIFIERS DEFAULT=@im=fcitx**<br>
+> **SDL_IM_MODULE DEFAULT=fcitx**<br>
 
-反正似乎是环境变量什么的问题，这样操作姑且是可以使用了，具体探究原因和更多问题请移步[https://forum.archlinuxcn.org/t/topic/11403 ArchLinux论坛的原帖]。
+反正似乎是环境变量什么的问题，这样操作姑且是可以使用了，具体探究原因和更多问题请移步[ArchLinux论坛的原帖](https://forum.archlinuxcn.org/t/topic/11403)。

@@ -4,12 +4,14 @@ icon: fa fa-address-book
 order: 5
 ---
 
-<center>
-**我草真懒得修了吧什么神经病东西不想修了就这样吧能用就行了我草。（扶额）**
-</center>
+> 本站友情链接列表仍处于检修状态中...是的我想我是修不好了...但我觉得我能把链接修一修就是万幸...（祈祷）
+
+<details>
+
+<summary>损坏的友情链接，展开后亦无法使用，仅做留档。</summary>
 
 <div class="friendship-links">
-  <div class="link-card" data-href="https://example.com/truthboard">
+  <div class="link-card" data-href="https://truthboard.wikidot.com">
     <div class="card-content">
       <img src="https://truthboard.wdfiles.com/local--files/theme%3Abasic/truthboard2.svg" alt="Truthboard头像" class="avatar">
       <div class="card-text">
@@ -20,7 +22,7 @@ order: 5
     </div>
   </div>
   
-  <div class="link-card" data-href="https://example.com/remelens">
+  <div class="link-card" data-href="https://remelens.link">
     <div class="card-content">
       <img src="https://cdn.luogu.com.cn/upload/image_hosting/wzzqwiik.png" alt="Remelens头像" class="avatar">
       <div class="card-text">
@@ -31,7 +33,7 @@ order: 5
     </div>
   </div>
   
-  <div class="link-card" data-href="https://example.com/cloud">
+  <div class="link-card" data-href="https://cloud.sd.cn">
     <div class="card-content">
       <img src="/assets/img/links/cloud.jpg" alt="网络一隅头像" class="avatar">
       <div class="card-text">
@@ -53,7 +55,7 @@ order: 5
     </div>
   </div>
   
-  <div class="link-card" data-href="https://example.com/mountain">
+  <div class="link-card" data-href="https://mount-rain.link">
     <div class="card-content">
       <img src="/assets/img/links/mountr.png" alt="山雨的湖边小屋头像" class="avatar">
       <div class="card-text">
@@ -64,7 +66,7 @@ order: 5
     </div>
   </div>
   
-  <div class="link-card" data-href="https://example.com/rymingenu">
+  <div class="link-card" data-href="https://rymingenu.fun">
     <div class="card-content">
       <img src="https://rymingenu.fun/assets/images/rymingenu.png" alt="任亚墨的书房头像" class="avatar">
       <div class="card-text">
@@ -75,6 +77,8 @@ order: 5
     </div>
   </div>
 </div>
+
+</details>
 
 <style>
 .friendship-links {
