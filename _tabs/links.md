@@ -4,11 +4,11 @@ icon: fa fa-address-book
 order: 5
 ---
 
-> 本站友情链接列表仍处于检修状态中...是的我想我是修不好了...但我觉得我能把链接修一修就是万幸...（祈祷）
+> 本站友情链接列表仍处于检修状态中...是的我想我是修不好了...但我觉得我能把跳转功能修一修就是万幸...（祈祷）
 
 <details>
 
-<summary>损坏的友情链接，展开后亦无法使用，仅做留档。</summary>
+<summary>损坏的友情链接，展开后部分无法使用，仅有跳转功能，作为留档。</summary>
 
 <div class="friendship-links">
   <div class="link-card" data-href="https://truthboard.wikidot.com">
