@@ -35,7 +35,7 @@ order: 5
   
   <div class="link-card" data-href="https://cloud.sd.cn">
     <div class="card-content">
-      <img src="/assets/img/links/cloud.jpg" alt="网络一隅头像" class="avatar">
+      <img src="https://cloud.sd.cn/usr/uploads/2025/07/574656472.png" alt="网络一隅头像" class="avatar">
       <div class="card-text">
         <h3>网络一隅</h3>
         <p>愿我的祝福与你同在</p>
