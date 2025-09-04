@@ -66,9 +66,9 @@ order: 5
     </div>
   </div>
   
-  <div class="link-card" data-href="https://rymingenu.fun">
+  <div class="link-card" data-href="https://rymingenu.top">
     <div class="card-content">
-      <img src="https://rymingenu.fun/assets/images/rymingenu.png" alt="任亚墨的书房头像" class="avatar">
+      <img src="https://rymingenu.top/assets/images/rymingenu.png" alt="任亚墨的书房头像" class="avatar">
       <div class="card-text">
         <h3>任亚墨的书房</h3>
         <p>你似乎来过这里…</p>
