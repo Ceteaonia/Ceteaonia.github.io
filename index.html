@@ -1,6 +1,515 @@
----
-layout: home
-# Index page
----
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1824454151&auto=0&height=66"></iframe>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ceteaonia</title>
+    <style>
+        :root {
+            --system-blue: #0a84ff;
+            --system-gray: rgba(28, 28, 30, 0.94);
+            --system-border: rgba(255, 255, 255, 0.15);
+            --system-red: #ff453a;
+            --system-text: rgba(255, 255, 255, 0.88);
+            --system-highlight: rgba(255, 255, 255, 0.05);
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Mono', Menlo, Monaco, 'Roboto Mono', monospace;
+        }
+        
+        body {
+            background: 
+                linear-gradient(152deg, 
+                    rgba(12, 12, 14, 0.98) 0%, 
+                    rgba(22, 22, 24, 0.97) 100%),
+                url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80"><rect width="40" height="40" x="0" y="0" fill="rgba(255,255,255,0.015)"/><rect width="40" height="40" x="40" y="40" fill="rgba(255,255,255,0.015)"/></svg>');
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            color: var(--system-text);
+            overflow: hidden;
+            position: relative;
+        }
+        
+        /* 背景装饰元素 */
+        .bg-decoration {
+            position: absolute;
+            pointer-events: none;
+            z-index: 0;
+        }
+        
+        .bg-circle {
+            border-radius: 50%;
+            filter: blur(40px);
+            opacity: 0.15;
+            animation: float 12s ease-in-out infinite;
+        }
+        
+        .bg-circle:nth-child(1) {
+            width: 300px;
+            height: 300px;
+            background: var(--system-blue);
+            top: 10%;
+            left: 5%;
+            animation-delay: 0s;
+        }
+        
+        .bg-circle:nth-child(2) {
+            width: 200px;
+            height: 200px;
+            background: var(--system-red);
+            bottom: 15%;
+            right: 10%;
+            animation-delay: 2s;
+        }
+        
+        .bg-circle:nth-child(3) {
+            width: 150px;
+            height: 150px;
+            background: #ffcc00;
+            top: 60%;
+            left: 20%;
+            animation-delay: 4s;
+        }
+        
+        .bg-grid {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+            background-size: 40px 40px;
+            z-index: 0;
+        }
+        
+        /* 自适应容器 */
+        .terminal-container {
+            width: 100%;
+            max-width: 600px;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            perspective: 1000px;
+            position: relative;
+            z-index: 1;
+        }
+        
+        /* 精密悬浮窗口 */
+        .terminal-window {
+            width: 100%;
+            min-width: 280px;
+            background: 
+                linear-gradient(
+                    160deg, 
+                    rgba(36, 36, 38, 0.94) 0%, 
+                    rgba(28, 28, 30, 0.96) 100%
+                );
+            backdrop-filter: blur(20px) saturate(200%);
+            -webkit-backdrop-filter: blur(20px) saturate(200%);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 
+                0 20px 50px rgba(0, 0, 0, 0.4),
+                inset 0 1px 1px rgba(255, 255, 255, 0.08),
+                0 0 0 1px rgba(0, 0, 0, 0.3);
+            border: 1px solid var(--system-border);
+            transform: translateY(20px) scale(0.98) rotateX(2deg);
+            opacity: 0;
+            animation: 
+                windowEntrance 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.2s forwards,
+                subtleFloat 8s ease-in-out infinite 1s;
+            max-height: 90vh;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            will-change: transform, opacity;
+        }
+        
+        @keyframes windowEntrance {
+            to {
+                opacity: 1;
+                transform: translateY(0) scale(1) rotateX(0);
+            }
+        }
+        
+        @keyframes subtleFloat {
+            0%, 100% { 
+                transform: translateY(0) rotate(0.2deg); 
+                box-shadow: 0 20px 50px rgba(0, 0, 0, 0.4);
+            }
+            50% { 
+                transform: translateY(-8px) rotate(-0.2deg);
+                box-shadow: 0 25px 60px rgba(0, 0, 0, 0.5);
+            }
+        }
+        
+        @keyframes float {
+            0%, 100% { transform: translate(0, 0); }
+            25% { transform: translate(5%, 5%); }
+            50% { transform: translate(10%, 0); }
+            75% { transform: translate(5%, -5%); }
+        }
+        
+        /* 高级标题栏 */
+        .title-bar {
+            height: 36px;
+            min-height: 36px;
+            background: linear-gradient(to bottom, 
+                rgba(0, 0, 0, 0.25), 
+                rgba(0, 0, 0, 0.15));
+            display: flex;
+            align-items: center;
+            padding: 0 14px;
+            border-bottom: 1px solid var(--system-border);
+            position: relative;
+            flex-shrink: 0;
+            z-index: 2;
+        }
+        
+        .title-bar::after {
+            content: "";
+            position: absolute;
+            bottom: -1px;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, 
+                transparent, 
+                rgba(255, 255, 255, 0.08), 
+                transparent);
+        }
+        
+        .traffic-lights {
+            display: flex;
+            gap: 8px;
+        }
+        
+        .traffic-light {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            border: 0.5px solid rgba(0, 0, 0, 0.4);
+            transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .traffic-light::before {
+            content: "";
+            position: absolute;
+            top: 1px;
+            left: 1px;
+            right: 1px;
+            height: 1px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 50%;
+        }
+        
+        .traffic-light:hover {
+            transform: scale(1.15);
+        }
+        
+        .traffic-light:active {
+            transform: scale(0.95);
+        }
+        
+        .red { background: #ff5a56; box-shadow: inset 0 1px 2px rgba(255, 90, 86, 0.5); }
+        .yellow { background: #ffbd2e; box-shadow: inset 0 1px 2px rgba(255, 189, 46, 0.5); }
+        .green { background: #28c940; box-shadow: inset 0 1px 2px rgba(40, 201, 64, 0.5); }
+        
+        /* 内容区域 */
+        .window-content {
+            padding: 30px;
+            animation: contentAppear 0.6s cubic-bezier(0.23, 1, 0.32, 1) 0.8s both;
+            overflow-y: auto;
+            flex-grow: 1;
+            scrollbar-width: thin;
+            scrollbar-color: rgba(255,255,255,0.1) transparent;
+            position: relative;
+        }
+        
+        .window-content::-webkit-scrollbar {
+            width: 6px;
+        }
+        
+        .window-content::-webkit-scrollbar-thumb {
+            background-color: rgba(255,255,255,0.1);
+            border-radius: 3px;
+        }
+        
+        @keyframes contentAppear {
+            from { 
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to { 
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        h1 {
+            font-size: clamp(1.5rem, 4vw, 1.8rem);
+            margin-bottom: 22px;
+            color: var(--system-blue);
+            font-weight: 600;
+            letter-spacing: -0.5px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+            position: relative;
+            display: inline-block;
+        }
+        
+        h1::after {
+            content: "";
+            position: absolute;
+            bottom: -6px;
+            left: 0;
+            width: 40px;
+            height: 2px;
+            background: var(--system-blue);
+            opacity: 0.5;
+        }
+        
+        .status-line {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+            font-size: clamp(0.85rem, 3vw, 0.95rem);
+            position: relative;
+            padding-left: 15px;
+        }
+        
+        .status-line::before {
+            content: "→";
+            position: absolute;
+            left: 0;
+            color: var(--system-red);
+            font-size: 0.9rem;
+        }
+        
+        .status-prefix {
+            color: var(--system-red);
+            margin-right: 10px;
+            font-weight: 500;
+            min-width: 70px;
+        }
+        
+        /* 高级警告框 */
+        .maintenance-notice {
+            background: linear-gradient(
+                135deg, 
+                rgba(255, 69, 58, 0.12) 0%, 
+                rgba(255, 69, 58, 0.08) 100%
+            );
+            border: 1px solid rgba(255, 69, 58, 0.25);
+            border-radius: 8px;
+            padding: 18px;
+            margin-bottom: 26px;
+            position: relative;
+            overflow: hidden;
+            animation: noticePulse 6s ease-in-out infinite;
+        }
+        
+        .maintenance-notice::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, 
+                transparent, 
+                rgba(255, 69, 58, 0.5), 
+                transparent);
+        }
+        
+        .maintenance-notice::after {
+            content: "";
+            position: absolute;
+            top: -8px;
+            left: 24px;
+            width: 0;
+            height: 0;
+            border-left: 8px solid transparent;
+            border-right: 8px solid transparent;
+            border-bottom: 8px solid rgba(255, 69, 58, 0.25);
+            filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.2));
+        }
+        
+        @keyframes noticePulse {
+            0%, 100% { 
+                box-shadow: 0 0 0 0 rgba(255, 69, 58, 0), 
+                            inset 0 1px 1px rgba(255, 255, 255, 0.05);
+            }
+            50% { 
+                box-shadow: 0 0 0 4px rgba(255, 69, 58, 0.1), 
+                           inset 0 1px 1px rgba(255, 255, 255, 0.05);
+            }
+        }
+        
+        .maintenance-notice h2 {
+            color: var(--system-red);
+            font-size: clamp(1.2rem, 4vw, 1.4rem);
+            margin-bottom: 12px;
+            font-weight: 600;
+        }
+        
+        /* 精致命令行 */
+        .command-line {
+            background: linear-gradient(
+                to right, 
+                rgba(0, 0, 0, 0.18) 0%, 
+                rgba(0, 0, 0, 0.12) 100%
+            );
+            border-radius: 6px;
+            padding: 16px;
+            margin: 24px 0;
+            font-family: 'SF Mono', Menlo, monospace;
+            font-size: clamp(0.8rem, 3vw, 0.9rem);
+            line-height: 1.6;
+            border-left: 3px solid var(--system-blue);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .command-line::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, 
+                transparent, 
+                rgba(255, 255, 255, 0.05), 
+                transparent);
+        }
+        
+        .command-line code {
+            display: block;
+            margin-bottom: 8px;
+            white-space: nowrap;
+            position: relative;
+            padding-left: 20px;
+        }
+        
+        .command-line code::before {
+            content: "$";
+            position: absolute;
+            left: 0;
+            color: var(--system-blue);
+            opacity: 0.6;
+        }
+        
+        .command-line .comment {
+            color: rgba(255, 255, 255, 0.4);
+            font-style: italic;
+            padding-left: 20px;
+        }
+        
+        
+        /* 响应式调整 */
+        @media (max-width: 600px) {
+            .terminal-window {
+                border-radius: 10px;
+            }
+            
+            .window-content {
+                padding: 24px 18px;
+            }
+            
+            .maintenance-notice {
+                padding: 16px;
+            }
+            
+            .command-line {
+                padding: 14px;
+            }
+        }
+        
+        @media (max-height: 640px) {
+            .terminal-window {
+                max-height: 88vh;
+            }
+            
+            .window-content {
+                padding: 20px 18px;
+            }
+        }
+        
+        /* 状态时间戳 */
+        .timestamp {
+            margin-top: 24px;
+            font-size: 0.75rem;
+            color: rgba(255, 255, 255, 0.35);
+            text-align: right;
+            position: relative;
+        }
+        
+        .timestamp::before {
+            content: "";
+            position: absolute;
+            top: -10px;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, 
+                transparent, 
+                rgba(255, 255, 255, 0.05), 
+                transparent);
+        }
+    </style>
+</head>
+<body>
+    <!-- 背景装饰元素 -->
+    <div class="bg-decoration bg-circle"></div>
+    <div class="bg-decoration bg-circle"></div>
+    <div class="bg-decoration bg-circle"></div>
+    <div class="bg-grid"></div>
+    
+    <!-- 主窗口 -->
+    <div class="terminal-container">
+        <div class="terminal-window">
+            <div class="title-bar">
+                <div class="traffic-lights">
+                    <div class="traffic-light red"></div>
+                    <div class="traffic-light yellow"></div>
+                    <div class="traffic-light green"></div>
+                </div>
+            </div>
+            <div class="window-content">
+                <div class="maintenance-notice">
+                    <h2>Ceteaonia has been permanently closed.</h2>
+                    <p>For a number of reasons, chiefly the limited time and personal capacity of its maintainers, this website and all associated services—including domains, servers, wikis, and maintenance projects under Serenea HI Grp ,will be permanently shut down after <b>September 17 2025</b>. All operations will cease entirely.</p>
+                </div>
+                
+              
+                <p>Should you wish to learn more about the reasons behind this discontinuation and subsequent arrangements, you may continue reading this message or close this page.</p></br>
+                
+                <p>Like all who see this announcement, we do so with deep regret. We sincerely apologize for any disappointment and inconvenience this decision may cause, and we also express our profound gratitude to everyone who has supported Serenea HI Grp. over the years. The primary reason for this cessation is the constrained capacity of its maintainers. We are no longer able to devote the necessary resources or sustained effort to this site or any of the maintenance services previously offered under the Serenea HI Grp. umbrella. Consequently, discontinuing operation is the only feasible course of action.</p></br>
 
+                <p>Regarding any third-party content hosted on this site, please reach out to the maintainers through a verified channel. We will archive and retain all such content to prevent losses. You may contact us at any time to retrieve your materials. As for the site maintenance services provided by Serenea HI Grp. including but not limited to the operation of Truthboard and support for other wiki projects, these will be progressively transitioned to qualified individuals or entities following this announcement. Please monitor their respective platforms for future updates.</p></br>
+
+                <p>Copyright permissions for content originally published on this site and subsequently shared on other platforms remain in full force and effect as granted at the time of publication, unless expressly modified by a future revision of this announcement. No rights are revoked or altered retroactively.</p></br>
+
+                <p>We would like to once again extend our sincere appreciation for the support, participation, and enthusiasm of all our partners and users over the past decade. It has been an honor to be part of this journey. We deeply regret that we cannot continue and offer our sincerest apologies for any disappointment this may cause.</p></br>
+
+                <p><i>Should an urgent situation arise requiring immediate contact with our maintenance personnel, please make such requests through a trusted and reliable intermediary. Owing to significant organizational restructuring, all former direct channels of communication have been deactivated or discontinued. <b>Please be aware that all prior points of contact may now be completely unreachable.</b> We sincerely apologize for any inconvenience this may cause.</i></p>
+
+                
+                <div class="timestamp">Serenea KurokawaShiorei 2025-09-17T23:59:59Z</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
